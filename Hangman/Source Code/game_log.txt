@@ -1,0 +1,78 @@
+
+--- New Game Started: 2024-08-06 00:13:31 ---
+Word to guess: DEVELOPMENT
+Guess: E, Lives Remaining: 5
+Guess: D, Lives Remaining: 5
+Guess: P, Lives Remaining: 5
+Guess: M, Lives Remaining: 5
+Guess: O, Lives Remaining: 5
+Guess: W, Lives Remaining: 4
+Guess: N, Lives Remaining: 4
+Guess: T, Lives Remaining: 4
+Guess: V, Lives Remaining: 4
+Guess: L, Lives Remaining: 4
+Game Over: Player guessed the word!
+
+--- New Game Started: 2024-08-06 00:15:46 ---
+Word to guess: EXCEPTION
+Guess: M, Lives Remaining: 4
+Guess: F, Lives Remaining: 3
+Guess: L, Lives Remaining: 2
+Guess: O, Lives Remaining: 2
+Guess: U, Lives Remaining: 1
+Guess: D, Lives Remaining: 0
+Game Over: Player ran out of lives!
+Game Restarted: 2024-08-06 00:15:53
+
+--- New Game Started: 2024-08-06 00:15:53 ---
+Word to guess: EXCEPTION
+Guess: G, Lives Remaining: 4
+Guess: F, Lives Remaining: 3
+Guess: P, Lives Remaining: 3
+Guess: O, Lives Remaining: 3
+Guess: T, Lives Remaining: 3
+Guess: I, Lives Remaining: 3
+Guess: E, Lives Remaining: 3
+Guess: X, Lives Remaining: 3
+Guess: C, Lives Remaining: 3
+Guess: N, Lives Remaining: 3
+Game Over: Player guessed the word!
+Game Restarted: 2024-08-06 00:16:12
+
+--- New Game Started: 2024-08-06 00:16:12 ---
+Word to guess: EXCEPTION
+
+--- New Game Started: 2024-08-06 02:17:27 ---
+Word to guess: EXCEPTION
+Guess: E, Lives Remaining: 5
+Guess: D, Lives Remaining: 4
+Guess: L, Lives Remaining: 3
+Guess: P, Lives Remaining: 3
+Guess: X, Lives Remaining: 3
+Guess: C, Lives Remaining: 3
+Guess: T, Lives Remaining: 3
+Guess: I, Lives Remaining: 3
+Guess: O, Lives Remaining: 3
+Guess: N, Lives Remaining: 3
+Game Over: Player guessed the word!
+Game Restarted: 2024-08-06 02:18:12
+
+--- New Game Started: 2024-08-06 02:18:12 ---
+Word to guess: PROGRAMMING
+Guess: K, Lives Remaining: 4
+Guess: L, Lives Remaining: 3
+Guess: M, Lives Remaining: 3
+Guess: D, Lives Remaining: 2
+Guess: C, Lives Remaining: 1
+Guess: F, Lives Remaining: 0
+Game Over: Player ran out of lives!
+Game Restarted: 2024-08-06 02:18:20
+
+--- New Game Started: 2024-08-06 02:18:20 ---
+Word to guess: DEVELOPMENT
+Guess: C, Lives Remaining: 4
+Guess: D, Lives Remaining: 4
+Game Restarted: 2024-08-06 02:18:34
+
+--- New Game Started: 2024-08-06 02:18:34 ---
+Word to guess: PROGRAMMING

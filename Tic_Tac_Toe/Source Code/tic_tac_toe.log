@@ -1,0 +1,759 @@
+     
+     
+     
+
+     
+     
+     
+
+O    
+     
+     
+
+O X  
+     
+     
+
+O X  
+O    
+     
+
+O X  
+O X  
+     
+
+O X  
+O X  
+O    
+
+     
+     
+     
+
+2024-08-06 00:22:32,188 - INFO - Board state:
+     
+     
+     
+
+2024-08-06 00:22:32,188 - INFO - ============== New Game 1 ==================
+2024-08-06 00:22:32,188 - INFO - Board state:
+     
+     
+     
+
+2024-08-06 00:22:32,196 - INFO - Board state:
+     
+     
+     
+
+2024-08-06 00:22:32,196 - INFO - ============== New Game 1 ==================
+2024-08-06 00:22:32,196 - INFO - Board state:
+     
+     
+     
+
+2024-08-06 00:22:33,237 - INFO - Board state:
+O    
+     
+     
+
+2024-08-06 00:22:33,237 - INFO - Player 1 moved to (0, 0)
+2024-08-06 00:22:33,237 - INFO - Player 2's turn.
+2024-08-06 00:22:33,897 - INFO - Board state:
+O X  
+     
+     
+
+2024-08-06 00:22:33,897 - INFO - Player 2 moved to (0, 1)
+2024-08-06 00:22:33,897 - INFO - Player 1's turn.
+2024-08-06 00:22:34,132 - INFO - Board state:
+O X  
+O    
+     
+
+2024-08-06 00:22:34,133 - INFO - Player 1 moved to (1, 0)
+2024-08-06 00:22:34,133 - INFO - Player 2's turn.
+2024-08-06 00:22:34,339 - INFO - Board state:
+O X  
+O X  
+     
+
+2024-08-06 00:22:34,339 - INFO - Player 2 moved to (1, 1)
+2024-08-06 00:22:34,339 - INFO - Player 1's turn.
+2024-08-06 00:22:34,737 - INFO - Board state:
+O X  
+O X  
+O    
+
+2024-08-06 00:22:34,737 - INFO - Player 1 moved to (2, 0)
+2024-08-06 00:22:34,737 - INFO - Player 1 wins!
+2024-08-06 00:22:34,737 - INFO - Board state:
+O X  
+O X  
+O    
+
+2024-08-06 00:22:34,738 - INFO - Board state:
+     
+     
+     
+
+2024-08-06 00:22:34,738 - INFO - ============== New Game 1 ==================
+2024-08-06 00:22:34,738 - INFO - Board state:
+     
+     
+     
+
+2024-08-06 00:22:57,954 - INFO - Board state:
+O    
+     
+     
+
+2024-08-06 00:22:57,955 - INFO - Player 1 moved to (0, 0)
+2024-08-06 00:22:57,955 - INFO - Player 2's turn.
+2024-08-06 00:22:58,263 - INFO - Board state:
+O X  
+     
+     
+
+2024-08-06 00:22:58,263 - INFO - Player 2 moved to (0, 1)
+2024-08-06 00:22:58,263 - INFO - Player 1's turn.
+2024-08-06 00:22:58,551 - INFO - Board state:
+O X  
+O    
+     
+
+2024-08-06 00:22:58,551 - INFO - Player 1 moved to (1, 0)
+2024-08-06 00:22:58,551 - INFO - Player 2's turn.
+2024-08-06 00:22:58,755 - INFO - Board state:
+O X  
+O X  
+     
+
+2024-08-06 00:22:58,755 - INFO - Player 2 moved to (1, 1)
+2024-08-06 00:22:58,755 - INFO - Player 1's turn.
+2024-08-06 00:22:59,081 - INFO - Board state:
+O X  
+O X  
+O    
+
+2024-08-06 00:22:59,081 - INFO - Player 1 moved to (2, 0)
+2024-08-06 00:22:59,081 - INFO - Player 1 wins!
+2024-08-06 00:22:59,081 - INFO - Board state:
+O X  
+O X  
+O    
+
+2024-08-06 00:22:59,083 - INFO - Board state:
+     
+     
+     
+
+2024-08-06 00:22:59,083 - INFO - ============== New Game 1 ==================
+2024-08-06 00:22:59,083 - INFO - Board state:
+     
+     
+     
+
+2024-08-06 00:23:20,499 - INFO - Board state:
+     
+     
+     
+
+2024-08-06 00:23:20,499 - INFO - ============== New Game 1 ==================
+2024-08-06 00:23:20,499 - INFO - Board state:
+     
+     
+     
+
+2024-08-06 00:23:20,505 - INFO - Board state:
+     
+     
+     
+
+2024-08-06 00:23:20,505 - INFO - ============== New Game 1 ==================
+2024-08-06 00:23:20,505 - INFO - Board state:
+     
+     
+     
+
+2024-08-06 00:23:21,767 - INFO - Board state:
+O    
+     
+     
+
+2024-08-06 00:23:21,767 - INFO - Player 1 moved to (0, 0)
+2024-08-06 00:23:21,767 - INFO - Player 2's turn.
+2024-08-06 00:23:22,065 - INFO - Board state:
+O X  
+     
+     
+
+2024-08-06 00:23:22,065 - INFO - Player 2 moved to (0, 1)
+2024-08-06 00:23:22,066 - INFO - Player 1's turn.
+2024-08-06 00:23:22,357 - INFO - Board state:
+O X  
+O    
+     
+
+2024-08-06 00:23:22,357 - INFO - Player 1 moved to (1, 0)
+2024-08-06 00:23:22,357 - INFO - Player 2's turn.
+2024-08-06 00:23:22,581 - INFO - Board state:
+O X  
+O X  
+     
+
+2024-08-06 00:23:22,581 - INFO - Player 2 moved to (1, 1)
+2024-08-06 00:23:22,581 - INFO - Player 1's turn.
+2024-08-06 00:23:22,965 - INFO - Board state:
+O X  
+O X  
+O    
+
+2024-08-06 00:23:22,965 - INFO - Player 1 moved to (2, 0)
+2024-08-06 00:23:22,965 - INFO - Player 1 wins!
+2024-08-06 00:23:22,965 - INFO - Board state:
+O X  
+O X  
+O    
+
+2024-08-06 00:23:22,966 - INFO - Board state:
+     
+     
+     
+
+2024-08-06 00:23:22,966 - INFO - ============== New Game 1 ==================
+2024-08-06 00:23:22,966 - INFO - Board state:
+     
+     
+     
+
+2024-08-06 02:08:11,924 - INFO - Board state:
+     
+     
+     
+
+2024-08-06 02:08:11,925 - INFO - ============== New Game 1 ==================
+2024-08-06 02:08:11,925 - INFO - Board state:
+     
+     
+     
+
+2024-08-06 02:08:11,933 - INFO - Board state:
+     
+     
+     
+
+2024-08-06 02:08:11,934 - INFO - ============== New Game 1 ==================
+2024-08-06 02:08:11,934 - INFO - Board state:
+     
+     
+     
+
+2024-08-06 02:13:00,267 - INFO - Board state:
+     
+     
+     
+
+2024-08-06 02:13:00,267 - INFO - ============== New Game 1 ==================
+2024-08-06 02:13:00,268 - INFO - Board state:
+     
+     
+     
+
+2024-08-06 02:13:00,276 - INFO - Board state:
+     
+     
+     
+
+2024-08-06 02:13:00,276 - INFO - ============== New Game 1 ==================
+2024-08-06 02:13:00,276 - INFO - Board state:
+     
+     
+     
+
+2024-08-06 02:13:12,519 - INFO - Board state:
+O    
+     
+     
+
+2024-08-06 02:13:12,519 - INFO - Player 1 moved to (0, 0)
+2024-08-06 02:13:12,520 - INFO - Player 2's turn.
+2024-08-06 02:13:13,367 - INFO - Board state:
+O X  
+     
+     
+
+2024-08-06 02:13:13,367 - INFO - Player 2 moved to (0, 1)
+2024-08-06 02:13:13,368 - INFO - Player 1's turn.
+2024-08-06 02:13:14,000 - INFO - Board state:
+O X  
+O    
+     
+
+2024-08-06 02:13:14,000 - INFO - Player 1 moved to (1, 0)
+2024-08-06 02:13:14,001 - INFO - Player 2's turn.
+2024-08-06 02:13:14,863 - INFO - Board state:
+O X  
+O X  
+     
+
+2024-08-06 02:13:14,863 - INFO - Player 2 moved to (1, 1)
+2024-08-06 02:13:14,863 - INFO - Player 1's turn.
+2024-08-06 02:13:16,312 - INFO - Board state:
+O X  
+O X  
+O    
+
+2024-08-06 02:13:16,312 - INFO - Player 1 moved to (2, 0)
+2024-08-06 02:13:16,312 - INFO - Player 1 wins!
+2024-08-06 02:13:16,312 - INFO - Board state:
+O X  
+O X  
+O    
+
+2024-08-06 02:13:16,313 - INFO - Board state:
+     
+     
+     
+
+2024-08-06 02:13:16,314 - INFO - ============== New Game 1 ==================
+2024-08-06 02:13:16,314 - INFO - Board state:
+     
+     
+     
+
+2024-08-06 02:13:22,143 - INFO - Board state:
+O    
+     
+     
+
+2024-08-06 02:13:22,144 - INFO - Player 1 moved to (0, 0)
+2024-08-06 02:13:22,144 - INFO - Player 2's turn.
+2024-08-06 02:13:22,476 - INFO - Board state:
+O X  
+     
+     
+
+2024-08-06 02:13:22,477 - INFO - Player 2 moved to (0, 1)
+2024-08-06 02:13:22,477 - INFO - Player 1's turn.
+2024-08-06 02:13:22,895 - INFO - Board state:
+O X  
+O    
+     
+
+2024-08-06 02:13:22,895 - INFO - Player 1 moved to (1, 0)
+2024-08-06 02:13:22,895 - INFO - Player 2's turn.
+2024-08-06 02:13:23,688 - INFO - Board state:
+O X  
+O X  
+     
+
+2024-08-06 02:13:23,688 - INFO - Player 2 moved to (1, 1)
+2024-08-06 02:13:23,688 - INFO - Player 1's turn.
+2024-08-06 02:13:24,260 - INFO - Board state:
+O X  
+O X O
+     
+
+2024-08-06 02:13:24,260 - INFO - Player 1 moved to (1, 2)
+2024-08-06 02:13:24,260 - INFO - Player 2's turn.
+2024-08-06 02:13:25,262 - INFO - Board state:
+O X  
+O X O
+  X  
+
+2024-08-06 02:13:25,262 - INFO - Player 2 moved to (2, 1)
+2024-08-06 02:13:25,262 - INFO - Player 2 wins!
+2024-08-06 02:13:25,262 - INFO - Board state:
+O X  
+O X O
+  X  
+
+2024-08-06 02:13:25,263 - INFO - Board state:
+     
+     
+     
+
+2024-08-06 02:13:25,263 - INFO - ============== New Game 1 ==================
+2024-08-06 02:13:25,264 - INFO - Board state:
+     
+     
+     
+
+2024-08-06 02:13:46,094 - INFO - Board state:
+     
+  O  
+     
+
+2024-08-06 02:13:46,094 - INFO - Player 1 moved to (1, 1)
+2024-08-06 02:13:46,094 - INFO - Player 2's turn.
+2024-08-06 02:13:50,192 - INFO - Board state:
+  X  
+  O  
+     
+
+2024-08-06 02:13:50,192 - INFO - Player 2 moved to (0, 1)
+2024-08-06 02:13:50,192 - INFO - Player 1's turn.
+2024-08-06 02:13:50,452 - INFO - Board state:
+O X  
+  O  
+     
+
+2024-08-06 02:13:50,452 - INFO - Player 1 moved to (0, 0)
+2024-08-06 02:13:50,452 - INFO - Player 2's turn.
+2024-08-06 02:13:50,735 - INFO - Board state:
+O X  
+X O  
+     
+
+2024-08-06 02:13:50,736 - INFO - Player 2 moved to (1, 0)
+2024-08-06 02:13:50,736 - INFO - Player 1's turn.
+2024-08-06 02:13:51,140 - INFO - Board state:
+O X  
+X O  
+O    
+
+2024-08-06 02:13:51,140 - INFO - Player 1 moved to (2, 0)
+2024-08-06 02:13:51,141 - INFO - Player 2's turn.
+2024-08-06 02:13:51,527 - INFO - Board state:
+O X  
+X O  
+O X  
+
+2024-08-06 02:13:51,528 - INFO - Player 2 moved to (2, 1)
+2024-08-06 02:13:51,528 - INFO - Player 1's turn.
+2024-08-06 02:13:51,954 - INFO - Board state:
+O X  
+X O  
+O X O
+
+2024-08-06 02:13:51,954 - INFO - Player 1 moved to (2, 2)
+2024-08-06 02:13:51,954 - INFO - Player 1 wins!
+2024-08-06 02:13:51,954 - INFO - Board state:
+O X  
+X O  
+O X O
+
+2024-08-06 02:13:51,955 - INFO - Board state:
+     
+     
+     
+
+2024-08-06 02:13:51,955 - INFO - ============== New Game 1 ==================
+2024-08-06 02:13:51,955 - INFO - Board state:
+     
+     
+     
+
+2024-08-06 02:13:52,197 - INFO - Board state:
+     
+    O
+     
+
+2024-08-06 02:13:52,198 - INFO - Player 1 moved to (1, 2)
+2024-08-06 02:13:52,198 - INFO - Player 2's turn.
+2024-08-06 02:13:52,628 - INFO - Board state:
+    X
+    O
+     
+
+2024-08-06 02:13:52,628 - INFO - Player 2 moved to (0, 2)
+2024-08-06 02:13:52,628 - INFO - Player 1's turn.
+2024-08-06 02:13:52,855 - INFO - Board state:
+  O X
+    O
+     
+
+2024-08-06 02:13:52,856 - INFO - Player 1 moved to (0, 1)
+2024-08-06 02:13:52,856 - INFO - Player 2's turn.
+2024-08-06 02:13:53,099 - INFO - Board state:
+X O X
+    O
+     
+
+2024-08-06 02:13:53,099 - INFO - Player 2 moved to (0, 0)
+2024-08-06 02:13:53,099 - INFO - Player 1's turn.
+2024-08-06 02:13:53,312 - INFO - Board state:
+X O X
+O   O
+     
+
+2024-08-06 02:13:53,312 - INFO - Player 1 moved to (1, 0)
+2024-08-06 02:13:53,312 - INFO - Player 2's turn.
+2024-08-06 02:13:53,532 - INFO - Board state:
+X O X
+O X O
+     
+
+2024-08-06 02:13:53,532 - INFO - Player 2 moved to (1, 1)
+2024-08-06 02:13:53,532 - INFO - Player 1's turn.
+2024-08-06 02:13:53,759 - INFO - Board state:
+X O X
+O X O
+O    
+
+2024-08-06 02:13:53,760 - INFO - Player 1 moved to (2, 0)
+2024-08-06 02:13:53,760 - INFO - Player 2's turn.
+2024-08-06 02:13:53,955 - INFO - Board state:
+X O X
+O X O
+O X  
+
+2024-08-06 02:13:53,955 - INFO - Player 2 moved to (2, 1)
+2024-08-06 02:13:53,955 - INFO - Player 1's turn.
+2024-08-06 02:13:54,455 - INFO - Board state:
+X O X
+O X O
+O X O
+
+2024-08-06 02:13:54,456 - INFO - Player 1 moved to (2, 2)
+2024-08-06 02:13:54,456 - INFO - The game is a draw.
+2024-08-06 02:13:54,456 - INFO - Board state:
+X O X
+O X O
+O X O
+
+2024-08-06 02:13:54,457 - INFO - Board state:
+     
+     
+     
+
+2024-08-06 02:13:54,457 - INFO - ============== New Game 1 ==================
+2024-08-06 02:13:54,457 - INFO - Board state:
+     
+     
+     
+
+2024-08-06 02:15:09,364 - INFO - Board state:
+     
+     
+     
+
+2024-08-06 02:15:09,364 - INFO - ============== New Game 1 ==================
+2024-08-06 02:15:09,364 - INFO - Board state:
+     
+     
+     
+
+2024-08-06 02:15:09,370 - INFO - Board state:
+     
+     
+     
+
+2024-08-06 02:15:09,371 - INFO - ============== New Game 1 ==================
+2024-08-06 02:15:09,371 - INFO - Board state:
+     
+     
+     
+
+2024-08-06 02:15:21,744 - INFO - Board state:
+O    
+     
+     
+
+2024-08-06 02:15:21,744 - INFO - Player 1 moved to (0, 0)
+2024-08-06 02:15:21,744 - INFO - Player 2's turn.
+2024-08-06 02:15:22,146 - INFO - Board state:
+O X  
+     
+     
+
+2024-08-06 02:15:22,146 - INFO - Player 2 moved to (0, 1)
+2024-08-06 02:15:22,146 - INFO - Player 1's turn.
+2024-08-06 02:15:22,470 - INFO - Board state:
+O X  
+O    
+     
+
+2024-08-06 02:15:22,470 - INFO - Player 1 moved to (1, 0)
+2024-08-06 02:15:22,470 - INFO - Player 2's turn.
+2024-08-06 02:15:22,780 - INFO - Board state:
+O X  
+O X  
+     
+
+2024-08-06 02:15:22,780 - INFO - Player 2 moved to (1, 1)
+2024-08-06 02:15:22,780 - INFO - Player 1's turn.
+2024-08-06 02:15:27,128 - INFO - Board state:
+O X  
+O X  
+O    
+
+2024-08-06 02:15:27,128 - INFO - Player 1 moved to (2, 0)
+2024-08-06 02:15:27,129 - INFO - Player 1 wins!
+2024-08-06 02:15:27,129 - INFO - Board state:
+O X  
+O X  
+O    
+
+2024-08-06 02:15:27,130 - INFO - Board state:
+     
+     
+     
+
+2024-08-06 02:15:27,130 - INFO - ============== New Game 1 ==================
+2024-08-06 02:15:27,130 - INFO - Board state:
+     
+     
+     
+
+2024-08-06 02:15:32,076 - INFO - Board state:
+O    
+     
+     
+
+2024-08-06 02:15:32,077 - INFO - Player 1 moved to (0, 0)
+2024-08-06 02:15:32,077 - INFO - Player 2's turn.
+2024-08-06 02:15:32,360 - INFO - Board state:
+O X  
+     
+     
+
+2024-08-06 02:15:32,360 - INFO - Player 2 moved to (0, 1)
+2024-08-06 02:15:32,360 - INFO - Player 1's turn.
+2024-08-06 02:15:32,774 - INFO - Board state:
+O X  
+O    
+     
+
+2024-08-06 02:15:32,774 - INFO - Player 1 moved to (1, 0)
+2024-08-06 02:15:32,774 - INFO - Player 2's turn.
+2024-08-06 02:15:33,104 - INFO - Board state:
+O X  
+O X  
+     
+
+2024-08-06 02:15:33,104 - INFO - Player 2 moved to (1, 1)
+2024-08-06 02:15:33,104 - INFO - Player 1's turn.
+2024-08-06 02:15:33,454 - INFO - Board state:
+O X  
+O X O
+     
+
+2024-08-06 02:15:33,454 - INFO - Player 1 moved to (1, 2)
+2024-08-06 02:15:33,454 - INFO - Player 2's turn.
+2024-08-06 02:15:33,803 - INFO - Board state:
+O X  
+O X O
+  X  
+
+2024-08-06 02:15:33,803 - INFO - Player 2 moved to (2, 1)
+2024-08-06 02:15:33,803 - INFO - Player 2 wins!
+2024-08-06 02:15:33,803 - INFO - Board state:
+O X  
+O X O
+  X  
+
+2024-08-06 02:15:33,804 - INFO - Board state:
+     
+     
+     
+
+2024-08-06 02:15:33,804 - INFO - ============== New Game 1 ==================
+2024-08-06 02:15:33,804 - INFO - Board state:
+     
+     
+     
+
+2024-08-06 02:15:37,336 - INFO - Board state:
+O    
+     
+     
+
+2024-08-06 02:15:37,336 - INFO - Player 1 moved to (0, 0)
+2024-08-06 02:15:37,336 - INFO - Player 2's turn.
+2024-08-06 02:15:37,561 - INFO - Board state:
+O X  
+     
+     
+
+2024-08-06 02:15:37,561 - INFO - Player 2 moved to (0, 1)
+2024-08-06 02:15:37,561 - INFO - Player 1's turn.
+2024-08-06 02:15:37,782 - INFO - Board state:
+O X  
+O    
+     
+
+2024-08-06 02:15:37,782 - INFO - Player 1 moved to (1, 0)
+2024-08-06 02:15:37,782 - INFO - Player 2's turn.
+2024-08-06 02:15:37,960 - INFO - Board state:
+O X  
+O X  
+     
+
+2024-08-06 02:15:37,960 - INFO - Player 2 moved to (1, 1)
+2024-08-06 02:15:37,960 - INFO - Player 1's turn.
+2024-08-06 02:15:38,180 - INFO - Board state:
+O X  
+O X  
+O    
+
+2024-08-06 02:15:38,180 - INFO - Player 1 moved to (2, 0)
+2024-08-06 02:15:38,180 - INFO - Player 1 wins!
+2024-08-06 02:15:38,180 - INFO - Board state:
+O X  
+O X  
+O    
+
+2024-08-06 02:15:38,182 - INFO - Board state:
+     
+     
+     
+
+2024-08-06 02:15:38,182 - INFO - ============== New Game 1 ==================
+2024-08-06 02:15:38,182 - INFO - Board state:
+     
+     
+     
+
+2024-08-06 02:15:38,968 - INFO - Board state:
+O    
+     
+     
+
+2024-08-06 02:15:38,968 - INFO - Player 1 moved to (0, 0)
+2024-08-06 02:15:38,968 - INFO - Player 2's turn.
+2024-08-06 02:15:39,286 - INFO - Board state:
+O X  
+     
+     
+
+2024-08-06 02:15:39,286 - INFO - Player 2 moved to (0, 1)
+2024-08-06 02:15:39,286 - INFO - Player 1's turn.
+2024-08-06 02:15:40,152 - INFO - Board state:
+O X  
+  O  
+     
+
+2024-08-06 02:15:40,152 - INFO - Player 1 moved to (1, 1)
+2024-08-06 02:15:40,152 - INFO - Player 2's turn.
+2024-08-06 02:15:41,403 - INFO - Board state:
+O X  
+  O  
+  X  
+
+2024-08-06 02:15:41,403 - INFO - Player 2 moved to (2, 1)
+2024-08-06 02:15:41,403 - INFO - Player 1's turn.
+2024-08-06 02:15:41,778 - INFO - Board state:
+O X  
+  O  
+  X O
+
+2024-08-06 02:15:41,778 - INFO - Player 1 moved to (2, 2)
+2024-08-06 02:15:41,778 - INFO - Player 1 wins!
+2024-08-06 02:15:41,778 - INFO - Board state:
+O X  
+  O  
+  X O
+
+2024-08-06 02:15:41,779 - INFO - Board state:
+     
+     
+     
+
+2024-08-06 02:15:41,779 - INFO - ============== New Game 1 ==================
+2024-08-06 02:15:41,779 - INFO - Board state:
+     
+     
+     
+

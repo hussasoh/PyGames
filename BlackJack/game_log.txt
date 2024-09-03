@@ -1,0 +1,22 @@
+2024-08-06 01:42:10,983 - INFO - New game started. Player hand: [11, 9]
+2024-08-06 01:42:10,983 - INFO - Dealer hand: [9, None]
+2024-08-06 01:42:10,983 - INFO - Game started with player credits: 50
+2024-08-06 01:42:13,362 - INFO - Player chose to hit. New hand: [11, 9, 1]
+2024-08-06 01:42:13,586 - INFO - Player chose to hit. New hand: [11, 9, 1, 13]
+2024-08-06 01:42:13,586 - INFO - Player busts
+2024-08-06 01:42:15,496 - INFO - Player wins.
+2024-08-06 01:42:17,121 - INFO - Player wins.
+2024-08-06 01:47:11,100 - INFO - New game started. Player hand: [12, 11]
+2024-08-06 01:47:11,101 - INFO - Dealer hand: [2, None]
+2024-08-06 01:47:11,101 - INFO - Game started with player credits: 50
+2024-08-06 01:48:22,448 - INFO - New game started. Player hand: [9, 13]
+2024-08-06 01:48:22,448 - INFO - Dealer hand: [8, None]
+2024-08-06 01:48:25,837 - INFO - Player chose to hit. New hand: [9, 13, 10]
+2024-08-06 01:48:25,837 - INFO - Player busts
+2024-08-06 01:48:28,240 - INFO - Player chose to hit. New hand: [9, 13, 10, 4]
+2024-08-06 01:48:28,240 - INFO - Player busts
+2024-08-06 01:48:30,130 - INFO - Player wins.
+2024-08-06 01:49:26,398 - INFO - Player chose to hit. New hand: [9, 13, 10, 4, 13]
+2024-08-06 01:49:26,398 - INFO - Player busts
+2024-08-06 01:49:34,958 - INFO - Player chose to hit. New hand: [9, 13, 10, 4, 13, 4]
+2024-08-06 01:49:34,959 - INFO - Player busts

@@ -1,0 +1,228 @@
+- - - - - - S - - -
+- - - S - - - - - -
+S - - - - - - - - -
+- - - - - S - - - -
+- S S S S - S S S -
+S S S - - - S - S -
+- - - - - - S - S -
+- - S S - - S - - -
+S - - O - - S S - -
+S - - - - - - S - -
+
+Move: (8, 3), Result: Miss
+O - - - S - - - - -
+S S - S S S S - - -
+S - - - - S - - - -
+S - - - - S S - - S
+S - - - - S - S - -
+- - - S S S S S - -
+S - - - - S - S - -
+- - - S - S - S - -
+- S - S - - - S - -
+S S - S - - - S - -
+
+Move: (0, 0), Result: Miss
+O - - - S - - - - -
+S X - S S S S - - -
+S - - - - S - - - -
+S - - - - S S - - S
+S - - - - S - S - -
+- - - S S S S S - -
+S - - - - S - S - -
+- - - S - S - S - -
+- S - S - - - S - -
+S S - S - - - S - -
+
+Move: (1, 1), Result: Hit
+O - - - S - - - - -
+S X - S S S S - - -
+S - - - - S - - - -
+S - - - - S S - - S
+S - - - - S - S - -
+- - - S X S S S - -
+S - - - - S - S - -
+- - - S - S - S - -
+- S - S - - - S - -
+S S - S - - - S - -
+
+Move: (5, 4), Result: Hit
+O - - - S - - - - -
+S X - S S S S - - -
+S - - - - S - - - -
+S - - - - S S - - S
+S - - - - S - S - -
+- - - S X S S S - -
+S - - - - S - S - -
+- - - S - X - S - -
+- S - S - - - S - -
+S S - S - - - S - -
+
+Move: (7, 5), Result: Hit
+O - - - S - - - - -
+S X - S S S S - - -
+S - - - - S - - - -
+S - - - - S S - - S
+S - - - - S - S - -
+- O - S X S S S - -
+S - - - - S - S - -
+- - - S - X - S - -
+- S - S - - - S - -
+S S - S - - - S - -
+
+Move: (5, 1), Result: Miss
+O - - - S - - - - -
+S X - S S S S - - -
+S - - - - S - - - -
+S - - - - S S - - S
+S - - - - S - S - -
+- O - S X S S S - -
+S - - - - S - S - -
+- O - S - X - S - -
+- S - S - - - S - -
+S S - S - - - S - -
+
+Move: (7, 1), Result: Miss
+O - - - S - - - - -
+S X - S S S S - - -
+S - - - - S - - - -
+S - - - - S S - - S
+S - - - - S - S - -
+- O - S X S S S - -
+S - - - - S - S - -
+- O - X - X - S - -
+- S - S - - - S - -
+S S - S - - - S - -
+
+Move: (7, 3), Result: Hit
+O - - - S - - - - -
+S X - S S S S - - -
+S - - - - S - - - -
+S - - - - S S - - S
+S - - - - S - S - -
+- O - S X S S S - -
+S - - - - S - S - -
+- O - X O X - S - -
+- S - S - - - S - -
+S S - S - - - S - -
+
+Move: (7, 4), Result: Miss
+O - - - S - - - - -
+S X - S S S S - - -
+S - - - - S - - - -
+S - - - - S S - - S
+S - - - - S - S - -
+- O - S X S S S - -
+S - - - - S - S - -
+- O - X O X O S - -
+- S - S - - - S - -
+S S - S - - - S - -
+
+Move: (7, 6), Result: Miss
+O - - - S - - - - -
+S X - S S S S - - -
+S - - - - S - - - -
+S - - - - S S - - S
+S - - - - S - S - -
+- O - S X S S S - -
+S - - - - X - S - -
+- O - X O X O S - -
+- S - S - - - S - -
+S S - S - - - S - -
+
+Move: (6, 5), Result: Hit
+O - - - S - - - - -
+S X - S S S S - - -
+S - - - - S - - - -
+S - - - - S S - - S
+S - - - - S - S - -
+- O - S X X S S - -
+S - - - - X - S - -
+- O - X O X O S - -
+- S - S - - - S - -
+S S - S - - - S - -
+
+Move: (5, 5), Result: Hit
+O - - - S - - - - -
+S X - S S S S - - -
+S - - - - S - - - -
+S - - - - S S - - S
+S - - - - X - S - -
+- O - S X X S S - -
+S - - - - X - S - -
+- O - X O X O S - -
+- S - S - - - S - -
+S S - S - - - S - -
+
+Move: (4, 5), Result: Already Attacked
+- - S S - - - - - -
+- - - - - - - - - -
+- S X S S S S - - -
+- S - - - - - - - -
+- S S - S S - - - S
+- - - - - - - - - -
+- - S S S S - - - -
+- - - - S - S S - -
+- - - - - - - S S S
+S - - S - - - - - -
+
+Move: (2, 2), Result: Hit
+- - S S - - - - - -
+- - - - - - - - - -
+- S X S S S S - - -
+- S - - - - - - - -
+- S S - S S - - - S
+- - - - O - - - - -
+- - S S S S - - - -
+- - - - S - S S - -
+- - - - - - - S S S
+S - - S - - - - - -
+
+Move: (5, 4), Result: Miss
+- - S S - - - - - -
+- - - - - - - - - -
+- S X S S S S - - -
+- S - - - - - - - -
+- S S - S S - - - S
+- - - - O - - - - -
+- - S X S S - - - -
+- - - - S - S S - -
+- - - - - - - S S S
+S - - S - - - - - -
+
+Move: (6, 3), Result: Hit
+- - S S - - - - - -
+- - - - - - - - - -
+- S X S S S S - - -
+- S - - - - - - - -
+- S S - S S - - - S
+- - - - O - - - - -
+- - S X S S - - - -
+- - - - X - S S - -
+- - - - - - - S S S
+S - - S - - - - - -
+
+Move: (7, 4), Result: Hit
+- - S S - - - - - -
+- - - - - - - - - -
+- S X S S S S - - -
+- S - - - - - - - -
+- S S - S S - - - S
+- - - - O - - - - -
+- - S X S S - - - -
+- - - - X O S S - -
+- - - - - - - S S S
+S - - S - - - - - -
+
+Move: (7, 5), Result: Miss
+- - S S - - - - - -
+- - - - - - - - - -
+- S X S S S S - - -
+- S - - - - - - - -
+- S S - S S - - - S
+- - - - O - - - - -
+- - S X S X - - - -
+- - - - X O S S - -
+- - - - - - - S S S
+S - - S - - - - - -
+
+Move: (6, 5), Result: Hit
